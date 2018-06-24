@@ -1,0 +1,52 @@
+{
+  "extends": "tslint:recommended",
+  "rules": {
+    "array-type": false,
+    "arrow-parens": false,
+    "ban-types": false,
+    "comment-format": [
+      false
+    ],
+    "eofline": false,
+    "interface-name": false,
+    "max-line-length": [
+      false
+    ],
+    "member-access": false,
+    "member-ordering": [
+      false
+    ],
+    "no-console": false,
+    "no-empty": false,
+    "no-consecutive-blank-lines": false,
+    "no-namespace": false,
+    "no-reference": false,
+    "no-string-literal": false,
+    "no-trailing-whitespace": false,
+    "no-unused-expression": false,
+    "no-var-requires": false,
+    "object-literal-key-quotes": [
+      false
+    ],
+    "object-literal-shorthand": false,
+    "object-literal-sort-keys": false,
+    "one-variable-per-declaration": [
+      false
+    ],
+    "only-arrow-functions": false,
+    "ordered-imports": [
+      false
+    ],
+    "prefer-conditional-expression": false,
+    "prefer-const": false,
+    "quotemark": [
+      true,
+      "single"
+    ],
+    "space-before-function-paren": false,
+    "trailing-comma": [
+      false
+    ],
+    "variable-name": false
+  }
+}
